@@ -1,2 +1,2 @@
 # Login-template-material-design-lite
-Login template using Material Design Lite
+Simple Login Form using [Material Design Lite](https://getmdl.io).
